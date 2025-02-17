@@ -1,0 +1,1 @@
+Proyecto react + vite, con implementación de API restCountrie y pequeñas funcionalidades.
