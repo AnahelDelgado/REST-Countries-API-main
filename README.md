@@ -19,7 +19,7 @@ Para configurar el proyecto en tu máquina, sigue estos pasos:
 
    ```bash
    git clone <URL_DEL_REPOSITORIO>
-```
+    ```
 
 
 ## Instalar dependencias
